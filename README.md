@@ -1,7 +1,7 @@
 # sell
 
 > sell app
-> 外面app商家页面
+> 外卖app商家页面
 
 ## Build Setup
 
